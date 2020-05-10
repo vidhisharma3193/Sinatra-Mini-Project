@@ -1,7 +1,5 @@
 # Sinatra Mini Project
 
-# Sinatra Mini Project
-
 ### Deliverables:
 * at least three models 
 * at least two controllers with all the seven routes 
